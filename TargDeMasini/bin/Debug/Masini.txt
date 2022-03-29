@@ -1,0 +1,4 @@
+1;alex;ana;panda;fiat;2007;alba;nu;15 05 2021;1500;
+2;alex;ovidiu;s5;audi;2010;alb;nu;12 2 2015;2500;
+3;paul;andrei;golf 4;volkswagen;2000;rosu;nu;2 2 2018;2000;
+4;ana;maria;dsa;rol;2015;alb;nu;2 2 2009;1500;

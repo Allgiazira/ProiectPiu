@@ -1,0 +1,6 @@
+E:\TargDeMasini\Masini\bin\Debug\Masini.dll
+E:\TargDeMasini\Masini\bin\Debug\Masini.pdb
+E:\TargDeMasini\Masini\obj\Debug\Masini.csproj.AssemblyReference.cache
+E:\TargDeMasini\Masini\obj\Debug\Masini.csproj.CoreCompileInputs.cache
+E:\TargDeMasini\Masini\obj\Debug\Masini.dll
+E:\TargDeMasini\Masini\obj\Debug\Masini.pdb
